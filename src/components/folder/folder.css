@@ -1,0 +1,13 @@
+.folder-content span {
+    font-size: 11px;
+}
+
+.folder-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ml-2 {
+    margin-left: 0.5rem;
+}
